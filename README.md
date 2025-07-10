@@ -19,11 +19,10 @@ An intelligent email reply generator that uses **Google Gemini AI API** to craft
 
 | Layer        | Technology                     |
 |--------------|---------------------------------|
-| Frontend     | React, Vite, Tailwind CSS       |
+| Frontend     | React, Vite, CSS       |
 | Backend      | Spring Boot, REST API           |
 | AI API       | Gemini (Google AI)              |
 | Extension    | Chrome Extension (Manifest v3)  |
-| Deployment   | GitHub Pages / Netlify / Heroku |
 | Tools        | Git, VS Code, IntelliJ, Postman |
 
 ---
